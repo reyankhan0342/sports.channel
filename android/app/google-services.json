@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578905388672",
+    "project_id": "sportschannel-d6099",
+    "storage_bucket": "sportschannel-d6099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578905388672:android:10c3ae678f09897a579865",
+        "android_client_info": {
+          "package_name": "com.example.com.sports.channel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4GhdxpNYY2JRWI6Pn2b-a_mHe1xxU4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
